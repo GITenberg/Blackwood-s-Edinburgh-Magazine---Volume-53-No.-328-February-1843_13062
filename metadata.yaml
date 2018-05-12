@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13062#Blackwood-s-Edinburgh-Magazine---Volume-53-No.-328-February-1843
 gutenberg_bookshelf: Blackwood's Edinburgh Magazine
 gutenberg_issued: '2004-07-30'
 gutenberg_type: Text
